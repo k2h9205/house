@@ -782,8 +782,8 @@ metadata:
           name: rental-region
 ```
 rental pod에 cm에서 환경변수를 가져오겠다는 설정이 적용 된 것을 확인 할 수 있다.
-![](images/cm-1.PNG)
+![](https://github.com/lay126/carrental/raw/master/images/cm-1.PNG)
 
 실제 rental pod안에서 cm에 설정된 국가와 지역 설정이 환경변수로 적용 된것을 확인 할 수 있다.
-![](images/cm-2.PNG)
+![](https://github.com/lay126/carrental/raw/master/images/cm-2.PNG)
 
